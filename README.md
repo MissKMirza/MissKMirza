@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/g.dev/kulsummirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g.dev/kulsummirza" height="30" width="40" /></a>
+<a href="https://dev.to/dev.to/sereene___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/sereene___" height="30" width="40" /></a>
 <a href="https://twitter.com/miss_kmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_kmirza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kulsum-mirza-7b30b7248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kulsum-mirza-7b30b7248/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:21456031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21456031" height="30" width="40" /></a>
@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=misskmirza&show_icons=true&locale=en" alt="misskmirza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misskmirza&" alt="misskmirza" /></p>
+
+
