@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kulsum-mirza-7b30b7248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kulsum-mirza-7b30b7248/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:21456031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21456031" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100017172091244&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100017172091244" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/la.ven__de.raa._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/la.ven__de.raa._/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/la.ven__de.raa._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/la.ven__de.raa._/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
