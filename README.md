@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kulsum Mirza</h1>
-<h3 align="center">A passionate Web and Android developer from India</h3>
+<h3 align="center">A passionate Cloud and DevOps from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misskmirza&label=Profile%20views&color=0e75b6&style=flat" alt="misskmirza" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/miss_kmirza" target="blank"><img src="https://img.shields.io/twitter/follow/miss_kmirza?logo=twitter&style=for-the-badge" alt="miss_kmirza" /></a> </p>
 
-- 🌱 I’m currently learning **web development,Android development**
+- 🌱 I’m currently learning ** AWS cloud, Terraform, CI/CD, Python**
 
 - 📫 How to reach me **wazerabanu@gmail.com**
 
